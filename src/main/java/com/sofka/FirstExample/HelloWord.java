@@ -14,7 +14,7 @@ public class HelloWord {
         int formaNumerica = 0,formaNumerica2 = 0;
         String formaString = "",formaString2 = "";
 
-
+        int a=0;
 
 
         while (i > -1) {
