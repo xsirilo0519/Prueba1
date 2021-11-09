@@ -13,7 +13,6 @@ public class HelloWord {
         int i = numeroStr.length() - 1;
         int formaNumerica = 0,formaNumerica2 = 0;
         String formaString = "",formaString2 = "";
-
         while (i > -1) {
             //Forma 1: recorriendo String
             formaString = formaString + Character.getNumericValue(numeroStr.charAt(i));
